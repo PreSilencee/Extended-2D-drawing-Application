@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafPack", "GrafPack\GrafPack.csproj", "{1759E0A8-E192-494D-B4F2-CD324325697E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1759E0A8-E192-494D-B4F2-CD324325697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1759E0A8-E192-494D-B4F2-CD324325697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1759E0A8-E192-494D-B4F2-CD324325697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1759E0A8-E192-494D-B4F2-CD324325697E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A7A287-09BE-42F9-803E-F204BA51E576}
+	EndGlobalSection
+EndGlobal
